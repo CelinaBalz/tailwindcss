@@ -5,6 +5,37 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alura Newssletter</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config={
+            theme:{
+                extend:{
+                    colors: {
+                        azul: {
+                            claro: '#C5DFFF',
+                            escuro: '#061E3C',
+                            hover: '#1057B0',
+                        },
+                        fontFamily:{
+                            inter: ['Inter', 'sans serif']
+                        },
+                        keyframes:{
+                            blink_kf: {
+                                '0%, 100%': { transform: 'rotate(-10deg)'},
+                                '50%': { transform: 'rotate(10deg)'},
+                            },
+                        },
+                        animation:{
+                            'blink': 'blink_kf 0.31s ease-in-out infinite'
+                        }
+                    }
+                }
+            }
+        }
+    </script>
 </head>
 <body>
     
