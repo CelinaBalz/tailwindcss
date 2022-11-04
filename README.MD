@@ -13,7 +13,11 @@ Nele conheci sobre a utilização do Tailwind CSS, a diferença desssa tecnologi
  
 <br/>
 
-Projeto desktop e Mobile: <br/>
+Design desktop e Mobile: <br/>
  ![desktop](/img/desktop.png)
  ![mobile](/img/mobile.png)
 
+### Links
+<a href="https://www.instagram.com/celina_balz/">Instagram</a>  
+<a href="https://github.com/Celinaaaaaa">Github</a>  
+<a href="https://br.linkedin.com/in/celina-ariella-oliveira-balz-049837201?original_referer=https%3A%2F%2Fwww.google.com%2F">Linkedin</a>  
